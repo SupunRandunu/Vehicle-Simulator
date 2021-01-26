@@ -6,3 +6,4 @@ The project and the initial software code have been developed by semicolen. The 
 
 The project was created with Unity 2017 and runs on Windows 10 (64 bit). Unity provides the ability to generate builds for Windows, Linux, and Mac OS X.
 
+![alt text](https://github.com/SupunRandunu/Vehicle-Simulator/blob/main/img/45304341_1728754843897593_6748691376449257472_o.jpg)
